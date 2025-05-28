@@ -3,6 +3,7 @@
 This repository contains the design, source code, and technical documentation for a **wall-climbing robot** designed for vertical surface navigation and autonomous object tracking. The robot utilizes **five brushless motors** for adhesion to the wall and **two DC motors** for movement along the surface. The system is controlled using **ROS 2**, enabling modular control, sensor integration, and autonomous functionality for efficient inspection and interaction with objects on vertical surfaces.
 
 ## Project Overview
+![WhatsApp Image 2025-05-28 at 23 31 18_49b4ef34](https://github.com/user-attachments/assets/1eed36ed-f4df-4bb4-a358-0da6e0ac14bb)
 
 The wall-climbing robot is equipped with the following key components:
 
